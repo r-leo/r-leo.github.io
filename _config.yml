@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Rodrigo Leo
 #tagline:          'A Jekyll theme'
-description:      'Estudio economía en [El Colegio de México](https://www.colmex.mx).'
+description:      'Estudio economía en <a href="https://www.colmex.mx">El Colegio de México</a>.'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 

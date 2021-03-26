@@ -52,8 +52,8 @@ where \\(R^k_t\\) is the gross return of a unit invested at time zero on the ass
 
 Since the latter pricing equation must hold for every asset (including the risk-free one), then the following expression must hold:
 
-\\[ E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} R_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} R_2 \right] = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} \right] R^f_1 + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} \right] R^f_2 \\]
+\\[ E_0 \left[ \delta_1 R_1 \right] + \pi_2 E_0 \left[ \delta_2 R_2 \right] = E_0 \left[ \delta_1 \right] R^f_1 + \pi_2 E_0 \left[ \delta_2 \right] R^f_2 \\]
 
-where \\(R_t\\) is the gross return of the risky asset and \\(R^f_t\\) is the gross return of the risk-free asset.
+where \\(\delta_t = \beta^t u'(c_t) / u'(c_{t-1})\\), \\(R_t\\) is the gross return of the risky asset and \\(R^f_t\\) is the gross return of the risk-free asset.
 
 This equation shows the relationship that must hold in equilibrium between the risky asset and the risk-free asset. A risk premium can be derived after specifying a functional form for the utility function and making assumptions about the stochastic processes that governs the return of the risky asset and the aggregate consumption of the economy.
