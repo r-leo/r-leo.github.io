@@ -35,8 +35,25 @@ The equilibrium of this economy is characterized as a Radner equilibrium where t
 1. Since there is no production, aggregate consumption equals the sum of the individual initial endowments.
 1. Holding assets provide no utility; therefore, every acquired asset must be sold to consume. This implies that the sum over time of the portfolios of every agent must be zero.
 
-In equilibrium, the price \\(q_k\\)of an asset \\(k\\) at time \\(t=0\\) must satisfy:
+In equilibrium, the price \\(q_k\\) of an asset \\(k\\) at time \\(t=0\\) must satisfy:
 
-\\[ q_k = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} \right] \\]
+\\[ q_k = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} X^k_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} X^k_2 \right] \\]
+
+where \\(X_t\\) is the payoff of the \\(k\\)-th asset a time \\(t\\).
+
+Since \\(q_k\\) is known at time zero, the pricing equation can be also written as
+
+\\[ 1 = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} R^k_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} R^k_2 \right] \\]
+
+where \\(R^k_t\\) is the gross return of a unit invested at time zero on the asset \\(k\\), at time \\(t\\).
 
 
+## The equilibrium relationship between assets
+
+Since the latter pricing equation must hold for every asset (including the risk-free one), then the following expression must hold:
+
+\\[ E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} R_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} R_2 \right] = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} \right] R^f_1 + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} \right] R^f_2 \\]
+
+where \\(R_t\\) is the gross return of the risky asset and \\(R^f_t\\) is the gross return of the risk-free asset.
+
+This equation shows the relationship that must hold in equilibrium between the risky asset and the risk-free asset. A risk premium can be derived after specifying a functional form for the utility function and making assumptions about the stochastic processes that governs the return of the risky asset and the aggregate consumption of the economy.
