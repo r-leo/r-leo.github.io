@@ -1,3 +1,5 @@
+destination: docs
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
@@ -10,7 +12,7 @@ title:            Rodrigo Leo
 #tagline:          'A Jekyll theme'
 description:      'Principalmente economía, matemáticas y ciclismo :)'
 #url:              http://hyde.getpoole.com
-baseurl:          '/'
+baseurl:          /
 
 author:
   name:           'Rodrigo Leo'
