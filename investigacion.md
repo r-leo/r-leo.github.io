@@ -11,7 +11,7 @@ El ajuste estadístico del modelo de equilibro general en dos periodos que const
 
 ---
 
-## 1. A pure exchange economy
+### 1. A pure exchange economy
 
 Consider a three-period pure exchange economy. At \\(t=0\\) there is an open market for two types of financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\), must find an optimal investment portfolio to transfer its wealth across time (as in an Arrow-Debreu economy). There are two types of agents: *type 1* agents obtain utility from consuming only at \\(t=1\\), while *type 2* agents can freely consume at every period. Type 1 agents can be regarded then as agents who suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know their type, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. Therefore, the uncertainty in the model comes from two different sources:
 
@@ -27,7 +27,7 @@ which can be reduced to
 \\[ E_0[u(c_0) + \beta u(c_1) + \pi_2 \beta^2(c_2)] \\]
 
 
-## 2. Equilibrium
+### 2. Equilibrium
 
 The equilibrium of this economy is characterized as a Radner equilibrium where the following conditions must hold:
 
@@ -48,7 +48,7 @@ Since \\(q_k\\) is known at time zero, the pricing equation can be also written 
 where \\(R^k_t\\) is the gross return of a unit invested at time zero on the asset \\(k\\), at time \\(t\\).
 
 
-## The equilibrium relationship between assets
+### 3. The equilibrium relationship between assets
 
 Since the latter pricing equation must hold for every asset (including the risk-free one), then the following expression must hold:
 
