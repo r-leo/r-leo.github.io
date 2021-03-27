@@ -1,4 +1,4 @@
-destination: docs
+#destination: docs
 
 kramdown:
   math_engine: mathjax
