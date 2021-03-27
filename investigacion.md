@@ -5,9 +5,9 @@ title: Investigación actual
 
 ---
 
-Actualmente investigo modelos de equilibrio general bajo incertidumbre donde se intercambian activos contingentes, tratando de encontrar variaciones que expliquen el acertijo del premio al riesgo (*equity premium puzzle*).
+La propuesta de mi trabajo de tesis, en la cual me encuentro trabajando actualmente, consiste en un modelo de equilibrio general con incertidumbre donde se intercambian activos contingetes. La incertidumbre en mi modelo proviene tanto de los posibles estados de la naturaleza (que determinan el retorno de los activos en cada periodo del tiempo) como del supuesto de que los agentes enfrentan información incompleta acerca de sus preferencias de consumo futuras. De esta forma modelo la posibilidad de choques futuros en el consumo de los agentes e investigo su efecto sobre sus elecciones de inversión óptimas, para determinar si la posibilidad de eventos futuros e inciertos que cambian las preferencias de consumo de los agentes explica, al menos en parte, el acertijo del premio al riesgo.
 
-El ajuste estadístico del modelo de equilibro general en dos periodos que constituye la parte central de mi tesis se encuentra en [este repositorio](https://github.com/rodrigo-lp/tesis-colmex). El texto de la tesis no está disponible pues aún no se aprueba, aunque la idea general se expone brevemente abajo.
+El texto de la tesis se encuentra en revisión. Mientras tanto, el ajuste estadístico del modelo de equilibro general en dos periodos que constituye la parte central de mi trabajo se encuentra en [este repositorio](https://github.com/rodrigo-lp/tesis-colmex). Un esbozo de la idea del modelo (aunque incompleto y con ciertas omisiones) se encuentra abajo.
 
 ---
 
@@ -27,28 +27,28 @@ which can be reduced to
 \\[ E_0[u(c_0) + \beta u(c_1) + \pi_2 \beta^2(c_2)] \\]
 
 
-### 2. Equilibrium
+### 2. The equilibrium of this economy
 
 The equilibrium of this economy is characterized as a Radner equilibrium where the following conditions must hold:
 
-1. Every agent maximises its expected utility subject to the budget constraint.
-1. Since there is no production, aggregate consumption equals the sum of the individual initial endowments.
-1. Holding assets provide no utility; therefore, every acquired asset must be sold to consume. This implies that the sum over time of the portfolios of every agent must be zero.
+1. Every agent maximises its expected utility subject to the budget constraint \\(c_t \leq p_t \omega_t + z^k_t X^k_t\\), where \\(X_t\\) is the payoff of the \\(k\\)-th asset a time \\(t\\):
+\\[ \max_{z^k_0} \ E_0[u(c_0) + \beta u(c_1) + \pi_2 \beta^2(c_2)] \\]
+1. Since there is no production, aggregate consumption equals the sum of the individual initial endowments:
+\\[ \sum_i \sum_t c^i_t = \sum_i \sum_t \omega^i_t \\]
+where \\(i\\) is the agent index.
+1. Holding assets provide no utility; therefore, every acquired asset must be sold to consume. This implies that the sum over time of the portfolios of every agent must be zero:
+\\[ \sum_t z^k_t = 0 \\]
+for every asset \\(k\\).
 
 In equilibrium, the price \\(q_k\\) of an asset \\(k\\) at time \\(t=0\\) must satisfy:
-
 \\[ q_k = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} X^k_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} X^k_2 \right] \\]
 
-where \\(X_t\\) is the payoff of the \\(k\\)-th asset a time \\(t\\).
-
 Since \\(q_k\\) is known at time zero, the pricing equation can be also written as
-
 \\[ 1 = E_0 \left[ \beta \frac{u'(c_1)}{u'(c_0)} R^k_1 \right] + \pi_2 E_0 \left[ \beta^2 \frac{u'(c_2)}{u'(c_0)} R^k_2 \right] \\]
-
 where \\(R^k_t\\) is the gross return of a unit invested at time zero on the asset \\(k\\), at time \\(t\\).
 
 
-### 3. The equilibrium relationship between assets
+### 3. A equilibrium relationship between assets
 
 Since the latter pricing equation must hold for every asset (including the risk-free one), then the following expression must hold:
 

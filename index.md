@@ -7,9 +7,9 @@ title: ''
 
 ---
 
-Soy ingeniero industrial y me encuentro terminando la maestría en economía en [El Colegio de México](https://www.colmex.mx). Mi área de interés es el equilibrio de los mercados financieros, especialmente la teoría microeconómica relacionada con los modelos de valuación de activos basados en consumo.
+Soy ingeniero industrial y actualmente estoy concluyendo la maestría en economía en [El Colegio de México](https://www.colmex.mx). Mi área de interés es el equilibrio de los mercados financieros, especialmente la teoría microeconómica relacionada con los modelos de valuación de activos basados en consumo.
 
-Mi proyecto de tesis tiene que ver con el [acertijo del premio al riesgo](https://en.wikipedia.org/wiki/Equity_premium_puzzle), que es la inconsistencia observada entre los retornos históricos de los activos financieros y el retorno medio que los modelos clásicos de valuación de activos predice. Este problema ha atraído una buena cantidad de atención en los últimos treinta y cinco años, especialmente a partir de la publicación del [paper clásico](https://doi.org/10.1016/0304-3932(85)90061-3) de Mehra y Prescott sobre el tema, en 1985.
+Mi proyecto de tesis tiene que ver con el [acertijo del premio al riesgo](https://en.wikipedia.org/wiki/Equity_premium_puzzle), que es la inconsistencia observada entre el premio al riesgo observado históricamente y el premio al riesgo que los modelos tradicionales de valuación de activos predicen. Este problema ha atraído una buena cantidad de atención en los últimos treinta y cinco años, especialmente a partir de la publicación del [paper clásico](https://doi.org/10.1016/0304-3932(85)90061-3) de Mehra y Prescott sobre el tema, en 1985.
 
 Además de la economía me encanta la lectura y el ciclismo de ruta <i class="fas fa-biking"></i>. Soy mexicano y vivo actualmente en la Ciudad de México.
 
