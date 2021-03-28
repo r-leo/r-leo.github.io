@@ -5,9 +5,9 @@ title: Investigación actual
 
 ---
 
-La propuesta de mi trabajo de tesis, en la cual me encuentro trabajando actualmente, consiste en un modelo de equilibrio general con incertidumbre donde se intercambian activos contingetes. La incertidumbre en mi modelo proviene tanto de los posibles estados de la naturaleza (que determinan el retorno de los activos en cada periodo del tiempo) como del supuesto de que los agentes enfrentan información incompleta acerca de sus preferencias de consumo futuras. De esta forma modelo la posibilidad de choques futuros en el consumo de los agentes e investigo su efecto sobre sus elecciones de inversión óptimas, para determinar si la posibilidad de eventos futuros e inciertos que cambian las preferencias de consumo de los agentes explica, al menos en parte, el acertijo del premio al riesgo.
+La propuesta de mi tesis, en la cual estoy trabajando actualmente, consiste en un modelo de equilibrio general bajo incertidumbre donde se intercambian activos contingentes. La incertidumbre en el modelo proviene tanto de los posibles estados de la naturaleza (que determinan el retorno de los activos en cada periodo del tiempo) como del supuesto de que los agentes enfrentan información incompleta acerca de sus preferencias de consumo futuras. Así investigo el efecto de eventos inciertos sobre las elecciones óptimas de inversión de los agentes, y trato de determinar si la probabilidad de ocurrencia de dichos eventos (por ejemplo, enfermedades o accidentes para los cuales el agente no está asegurado) puede explicar, al menos en parte, el acertijo del premio al riesgo.
 
-El texto de la tesis se encuentra en revisión. Mientras tanto, el ajuste estadístico del modelo de equilibro general en dos periodos que constituye la parte central de mi trabajo se encuentra en [este repositorio](https://github.com/rodrigo-lp/tesis-colmex). Un esbozo de la idea del modelo (aunque incompleto y con ciertas omisiones) se encuentra abajo.
+El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (aunque incompleto y con ciertas omisiones) se puede leer más abajo. Mientras tanto, el ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/rodrigo-lp/tesis-colmex).
 
 ---
 
@@ -48,7 +48,7 @@ Since \\(q_k\\) is known at time zero, the pricing equation can be also written 
 where \\(R^k_t\\) is the gross return of a unit invested at time zero on the asset \\(k\\), at time \\(t\\).
 
 
-### 3. A equilibrium relationship between assets
+### 3. An equilibrium relationship between assets
 
 Since the latter pricing equation must hold for every asset (including the risk-free one), then the following expression must hold:
 
@@ -57,3 +57,35 @@ Since the latter pricing equation must hold for every asset (including the risk-
 where \\(\delta_t = \beta^t u'(c_t) / u'(c_{t-1})\\), \\(R_t\\) is the gross return of the risky asset and \\(R^f_t\\) is the gross return of the risk-free asset.
 
 This equation shows the relationship that must hold in equilibrium between the risky asset and the risk-free asset. A risk premium can be derived after specifying a functional form for the utility function and making assumptions about the stochastic processes that governs the return of the risky asset and the aggregate consumption of the economy.
+
+
+### 4. Some key references
+
+#### About the premium puzzle itself
+
+* Abel, Andrew B (1990). "Asset Prices under Habit Formation and Catching up with the Joneses". *The American Economic Review*, 80, pp. 38–42. ISSN 00028282. <http://www.jstor.org/stable/2006539>.
+* Brav, Alon; Constantinides, George and Geczy, Christopher (1999). Asset Pricing with Heterogeneous Consumers and Limited Participation: Empirical Evidence. [doi: 10.3386/w7406](https://doi.org/10.3386/w7406).
+* Campbell, John Y. (2000). Asset Pricing at the Millennium. *The Journal of Finance*, 55. ISSN 00221082. [doi: 10.1111/0022-1082.00260](https://doi.org/10.1111/0022-1082.00260).
+* Campbell, John Y. and Cochrane, John H. (1999). By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior. *Journal of Political Economy*, 107. ISSN 0022-3808. [doi: 10.1086/250059](https://doi.org/10.1086/250059).
+* Constantinides, G. M.; Donaldson, J. B. and Mehra, R. (2002). Junior Can’t Borrow: A New Perspective on the Equity Premium Puzzle. *The Quarterly Journal of Economics*, 117. ISSN 0033-5533. [doi: 10.1162/003355302753399508](https:/doi.org/10.1162/003355302753399508).
+* Constantinides, George M. (1990). Habit Formation: A Resolution of the Equity Premium Puzzle. *Journal of Political Economy*, 98. ISSN 0022-3808. [doi: 10.1086/261693](https://doi.org/10.1086/261693).
+* Constantinides, George M and Duffie, Darrell (1996). Asset Pricing with Heterogeneous Consumers. *Journal of Political Economy*, 104, pp. 219–240. ISSN 00223808, 1537534X. <http://www.jstor.org/stable/2138925>.
+* DaSilva, Amadeu; Farka, Mira and Giannikos, Christos (2019). Age-Dependent Increasing Risk Aversion and the Equity Premium Puzzle. *Financial Review*, 54. ISSN 0732-8516. [doi: 10.1111/fire.12191](https://doi.org/10.1111/fire.12191).
+* Epstein, Larry G and Zin, Stanley E (1991). Substitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns: An Empirical Analysis. *Journal of Political Economy*, 99. [doi: 10.1086/261750](https://doi.org/10.1086/261750).
+* Mehra, Rajnish and Prescott, Edward C (1985). The Equity Premium, a Puzzle. *Journal of Monetary Economics*, 15, pp. 145–161.
+* Mehra, Rajnish and Prescott, Edward C (2003). The Equity Premium in Retrospect. *Handbook of the Economics of Finance*, pp. 889–938. [doi: 10.1016/S1574-0102(03)01023-9](https://doi.org/10.1016/S1574-0102(03)01023-9).
+* Rietz, Thomas A. (1988). The equity risk premium a solution. *Journal of Monetary Economics*, 22. ISSN 03043932. [doi: 10.1016/0304-3932(88)90172-9](https://doi.org/10.1016/0304-3932(88)90172-9).
+* Shirvani, Abootaleb; Stoyanov, Stoyan Veselinov; Fabozzi, Frank J. and Rachev, Svetlozar T. (2020). Equity Premium Puzzle or Faulty Economic Modelling? *SSRN Electronic Journal*. ISSN 1556-5068. [doi: 10.2139/ssrn.3530635](https://doi.org/10.2139/ssrn.3530635).
+* Wang, Yuanping and Mu, Congming (2019). Can ambiguity about rare disasters explain equity premium puzzle? *Economics Letters*, 183. ISSN 01651765. [doi: 10.1016/j.econlet.2019.108555](https://doi.org/10.1016/j.econlet.2019.108555).
+* Wilson, Matthew S. (2020). Disaggregation and the equity premium puzzle. *Journal of Empirical Finance*, 58. ISSN 09275398. [doi: 10.1016/j.jempfin.2020.05.002](https://doi.org/10.1016/j.jempfin.2020.05.002).
+
+#### About the relevance of consumption shocks
+
+* Bunn, Philip; Roux, Jeanne Le; Reinold, Kate and Surico, Paolo (2018). The consumption response to positive and negative income shocks. *Journal of Monetary Economics*, 96. ISSN 03043932. [doi: 10.1016/j.jmoneco.2017.11.007](https://doi.org/10.1016/j.jmoneco.2017.11.007).
+* Christelis, Dimitris; Georgarakos, Dimitris; Jappelli, Tullio; Pistaferri, Luigi and van Rooij, Maarten (2019). Asymmetric Consumption Effects of Transitory Income Shocks. *The Economic Journal*, 129. ISSN 0013-0133. [doi: 10.1093/ej/uez013](https://doi.org/10.1093/ej/uez013).
+* Karahan, Fatih and Ozkan, Serdar (2013). On the persistence of income shocks over the life cycle: Evidence, theory, and implications. *Review of Economic Dynamics*, 16. ISSN 10942025. [doi: 10.1016/j.red.2012.08.001](https://doi.org/10.1016/j.red.2012.08.001).
+
+#### About the estimation of the model parameters
+
+  * Ahmed, Waqas; Haider, Adnan y Iqbal, Javed (2012). Estimation of discount factor (beta) and coefficient of relative risk aversion (gamma) in selected countries. *MPRA*. <https://EconPapers.repec.org/RePEc:pra:mprapa:39736>.
+  * Booij, Adam S. and van Praag, Bernard M.S. (2009). A simultaneous approach to the estimation of risk aversion and the subjective time discount rate. *Journal of Economic Behavior and Organization*, 70, pp. 374–388. ISSN 01672681. [doi: 10.1016/j.jebo.2009.01.005](https://doi.org/10.1016/j.jebo.2009.01.005).

@@ -30,6 +30,14 @@ Además de la economía me encanta la lectura y el ciclismo de ruta <i class="fa
 
 ---
 
+### Varios
+
+* Idiomas: español (lengua materna), inglés (C1), francés (elemental).
+* Proficiente en [Python](https://www.python.org) (incluyendo módulos de cómputo científico como `numpy`, `pandas` para análisis de datos y `sympy`) y [R](https://www.r-project.org).
+* Conocimiento avanzado en diseño web con [Bootstrap](https://getbootstrap.com) y [PHP](https://www.php.net), así como lenguaje SQL. Como muestra, desarrollé desde cero un sistema de intranet en PHP/Javascript para un programa estudiantil de la Universidad Anáhuac México. El sistema está en línea en <https://ww2.anahuac.mx/verticeintranet>, y el repositorio con el código [está disponible en GitHub](https://github.com/rodrigo-lp/intranet-vertice).
+
+---
+
 ### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Leo).
