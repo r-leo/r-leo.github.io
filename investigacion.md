@@ -7,7 +7,7 @@ title: Investigación actual
 
 La propuesta de mi tesis, en la cual estoy trabajando actualmente, consiste en un modelo de equilibrio general bajo incertidumbre donde se intercambian activos contingentes. La incertidumbre en el modelo proviene tanto de los posibles estados de la naturaleza (que determinan el retorno de los activos en cada periodo del tiempo) como del supuesto de que los agentes enfrentan información incompleta acerca de sus preferencias de consumo futuras. Así investigo el efecto de eventos inciertos sobre las elecciones óptimas de inversión de los agentes, y trato de determinar si la probabilidad de ocurrencia de dichos eventos (por ejemplo, enfermedades o accidentes para los cuales el agente no está asegurado) puede explicar, al menos en parte, el acertijo del premio al riesgo.
 
-El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (aunque incompleto y con ciertas omisiones) se puede leer más abajo. Mientras tanto, el ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/rodrigo-lp/tesis-colmex).
+El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (aunque incompleto y con ciertas omisiones) se puede leer más abajo. Mientras tanto, el ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
 
 ---
 
