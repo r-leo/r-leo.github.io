@@ -14,6 +14,8 @@ title: Investigación
 
 El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (aunque incompleto y con algunas omisiones) se puede leer más abajo. Mientras tanto, el ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
 
+---
+
 #### 1. A pure exchange economy
 
 Consider a three-period pure exchange economy where agents get utility by means of consumption of a single good. At \\(t=0\\) there is an open market for two types of financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\) of the consumption good, must find an optimal investment portfolio to transfer its wealth across time (as in an Arrow-Debreu economy). We introduce imperfect information by the following mechanism. There are two possible future states of the world: a *positive* state (\\(P\\)) and a *negative* state (\\(N)\\). The state of the world is revealed at \\(t=1\\). If the positive state is observed, then the agent can consume at every period. If the negative state is observed, then the agent can consume only up to \\(t=1)\\. Therefore, a negative state can be regarded as a  state where agents suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know the future state of the world, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. So the uncertainty in the model comes from two different sources:
@@ -60,7 +62,6 @@ After specifying the model, we found that it does not attain the observed risk p
 #### 5. Some key references
 
 1. About the premium puzzle itself
-
   * Abel, Andrew B (1990). "Asset Prices under Habit Formation and Catching up with the Joneses". *The American Economic Review*, 80, pp. 38–42. ISSN 00028282. <http://www.jstor.org/stable/2006539>.
   * Brav, Alon; Constantinides, George and Geczy, Christopher (1999). Asset Pricing with Heterogeneous Consumers and Limited Participation: Empirical Evidence. [doi: 10.3386/w7406](https://doi.org/10.3386/w7406).
   * Campbell, John Y. (2000). Asset Pricing at the Millennium. *The Journal of Finance*, 55. ISSN 00221082. [doi: 10.1111/0022-1082.00260](https://doi.org/10.1111/0022-1082.00260).
@@ -76,14 +77,10 @@ After specifying the model, we found that it does not attain the observed risk p
   * Shirvani, Abootaleb; Stoyanov, Stoyan Veselinov; Fabozzi, Frank J. and Rachev, Svetlozar T. (2020). Equity Premium Puzzle or Faulty Economic Modelling? *SSRN Electronic Journal*. ISSN 1556-5068. [doi: 10.2139/ssrn.3530635](https://doi.org/10.2139/ssrn.3530635).
   * Wang, Yuanping and Mu, Congming (2019). Can ambiguity about rare disasters explain equity premium puzzle? *Economics Letters*, 183. ISSN 01651765. [doi: 10.1016/j.econlet.2019.108555](https://doi.org/10.1016/j.econlet.2019.108555).
   * Wilson, Matthew S. (2020). Disaggregation and the equity premium puzzle. *Journal of Empirical Finance*, 58. ISSN 09275398. [doi: 10.1016/j.jempfin.2020.05.002](https://doi.org/10.1016/j.jempfin.2020.05.002).
-
-2.  About the relevance of consumption shocks
-
+1.  About the relevance of consumption shocks
   * Bunn, Philip; Roux, Jeanne Le; Reinold, Kate and Surico, Paolo (2018). The consumption response to positive and negative income shocks. *Journal of Monetary Economics*, 96. ISSN 03043932. [doi: 10.1016/j.jmoneco.2017.11.007](https://doi.org/10.1016/j.jmoneco.2017.11.007).
   * Christelis, Dimitris; Georgarakos, Dimitris; Jappelli, Tullio; Pistaferri, Luigi and van Rooij, Maarten (2019). Asymmetric Consumption Effects of Transitory Income Shocks. *The Economic Journal*, 129. ISSN 0013-0133. [doi: 10.1093/ej/uez013](https://doi.org/10.1093/ej/uez013).
   * Karahan, Fatih and Ozkan, Serdar (2013). On the persistence of income shocks over the life cycle: Evidence, theory, and implications. *Review of Economic Dynamics*, 16. ISSN 10942025. [doi: 10.1016/j.red.2012.08.001](https://doi.org/10.1016/j.red.2012.08.001).
-
-3. About the estimation of the model parameters
-
+1. About the estimation of the model parameters
   * Ahmed, Waqas; Haider, Adnan y Iqbal, Javed (2012). Estimation of discount factor (beta) and coefficient of relative risk aversion (gamma) in selected countries. *MPRA*. <https://EconPapers.repec.org/RePEc:pra:mprapa:39736>.
   * Booij, Adam S. and van Praag, Bernard M.S. (2009). A simultaneous approach to the estimation of risk aversion and the subjective time discount rate. *Journal of Economic Behavior and Organization*, 70, pp. 374–388. ISSN 01672681. [doi: 10.1016/j.jebo.2009.01.005](https://doi.org/10.1016/j.jebo.2009.01.005).
