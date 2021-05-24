@@ -40,10 +40,14 @@ Además de la economía me encanta la lectura y el ciclismo de ruta <i class="fa
 
 ### Links
 
+#### Académicos
+
 * [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Leo).
 * [ORCiD](https://orcid.org/0000-0003-4359-6927).
 * [GitHub](https://github.com/r-leo).
 * [Gooogle Scholar](https://scholar.google.com/citations?user=Vnwfi-8AAAAJ).
+
+#### Redes sociales
 
 * Mi perfil en [Strava](https://strava.com/athletes/rodrigoleo).
 * Mi [Twitter](https://twitter.com/rodrigo_leo_) e [Instagram](https://www.instagram.com/rleo.p/).
