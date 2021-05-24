@@ -8,7 +8,8 @@ title: Investigación
 ### Trabajos durante el posgrado
 
 * Bermeo, Luis y Leo, Rodrigo (2021). [Análisis de las propiedades topológicas del riesgo por pandemia de COVID-19 en México](/static/analisis_topologico.pdf). Trabajo final de la materia de economía de redes.
-* Leo, Rodrigo (2021). [Análisis de la serie `SP500`](/static/proyecto_series.pdf). Trabajo final de la materia de series de tiempo.
+* Leo, Rodrigo (2021). [Análisis de la serie SP500](/static/proyecto_series.pdf). Trabajo final de la materia de series de tiempo.
+* Leo, Rodrigo (2021). [Revisión de *Bank Runs, Deposit Insurance, and Liquidity* de Diamond y Dybvig (1983)](/static/diamond_dybvig.pdf). Revisión de literatura para la materia de teoría de juegos.
 
 ---
 
@@ -18,7 +19,7 @@ El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (au
 
 #### 1. A pure exchange economy
 
-Consider a three-period pure exchange economy where agents get utility by means of consumption of a single good. At \\(t=0\\) there is an open market for two types of financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\) of the consumption good, must find an optimal investment portfolio to transfer its wealth across time (as in an Arrow-Debreu economy). We introduce imperfect information by the following mechanism. There are two possible future states of the world: a *positive* state (\\(P\\)) and a *negative* state (\\(N)\\). The state of the world is revealed at \\(t=1\\). If the positive state is observed, then the agent can consume at every period. If the negative state is observed, then the agent can consume only up to \\(t=1)\\. Therefore, a negative state can be regarded as a  state where agents suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know the future state of the world, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. So the uncertainty in the model comes from two different sources:
+Consider a three-period pure exchange economy where agents get utility by means of consumption of a single good. At \\(t=0\\) there is an open market for two types of financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\) of the consumption good, must find an optimal investment portfolio to transfer its wealth across time (as in an Arrow-Debreu economy). We introduce imperfect information by the following mechanism. There are two possible future states of the world: a *positive* state (\\(P\\)) and a *negative* state (\\(N)\\). The state of the world is revealed at \\(t=1\\). If the positive state is observed, then the agent can consume at every period. If the negative state is observed, then the agent can consume only up to \\(t=1\\). Therefore, a negative state can be regarded as a  state where agents suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know the future state of the world, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. So the uncertainty in the model comes from two different sources:
 
 1. the intrinsic volatility of the risky asset (the returns of this asset are stochastic), and
 1. the risk of observe a negative state of the world and be forced to sell the whole portfolio al \\(t=1\\) to achieve maximal utility.
@@ -57,7 +58,7 @@ This equation shows the relationship that must hold in equilibrium between the r
 
 #### 4. Results
 
-After specifying the model, we found that it does not attain the observed risk premium from U.S. data for the period 1948-2020, given reasonable values of relative risk aversion. However, it performs better than a model with zero probability of a consumption shock. It does, indeed, perform increasingly better as the probability of a consumption shock (i.e \\(\pi_2)\\, which are the odds of observing a negative state of the world) goes up. This suggests that this class of models, where an additional source of uncertainty is introduced as imperfect information about the future consumption paths of the agents, can potentially explain the equity premium puzzle under more complex specifications.
+After specifying the model, we found that it does not attain the observed risk premium from U.S. data for the period 1948-2020, given reasonable values of relative risk aversion. However, it performs better than a model with zero probability of a consumption shock. It does, indeed, perform increasingly better as the probability of a consumption shock (i.e \\(\pi_2\\), which are the odds of observing a negative state of the world) goes up. This suggests that this class of models, where an additional source of uncertainty is introduced as imperfect information about the future consumption paths of the agents, can potentially explain the equity premium puzzle under more complex specifications.
 
 #### 5. Some key references
 
