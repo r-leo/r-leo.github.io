@@ -5,17 +5,20 @@ title: Investigación
 
 ---
 
-### Trabajos durante el posgrado
+### Trabajos varios durante el posgrado
 
-* Bermeo, Luis y Leo, Rodrigo (2021). [Análisis de las propiedades topológicas del riesgo por pandemia de COVID-19 en México](/static/analisis_topologico.pdf). Trabajo final de la materia de economía de redes.
-* Leo, Rodrigo (2021). [Análisis de la serie SP500](/static/proyecto_series.pdf). Trabajo final de la materia de series de tiempo.
-* Leo, Rodrigo (2021). [Revisión de *Bank Runs, Deposit Insurance, and Liquidity* de Diamond y Dybvig (1983)](/static/diamond_dybvig.pdf). Revisión de literatura para la materia de teoría de juegos.
+* [Análisis de las propiedades topológicas del riesgo por pandemia de COVID-19 en México](/static/analisis_topologico.pdf). Trabajo final de la materia de economía de redes.
+* [Análisis de la serie SP500](/static/proyecto_series.pdf). Trabajo final de la materia de series de tiempo.
+* [Revisión de *Bank Runs, Deposit Insurance, and Liquidity* de Diamond y Dybvig (1983)](/static/diamond_dybvig.pdf). Revisión de literatura para la materia de teoría de juegos.
 
 ---
 
 ### Tesis de posgrado
 
-El texto de la tesis se encuentra en revisión. Un esbozo de los fundamentos (aunque incompleto y con algunas omisiones) se puede leer más abajo. Mientras tanto, el ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
+* [Texto completo aprobado](/static/acertijo_choques_consumo.pdf).
+* El ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
+
+Resumen de la tesis:
 
 #### 1. A pure exchange economy
 
