@@ -18,11 +18,11 @@ title: Investigación
 * [Texto completo aprobado](/static/acertijo_choques_consumo.pdf).
 * El ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
 
-Resumen de la tesis:
+#### Resumen de la tesis
 
 #### 1. A pure exchange economy
 
-Consider a three-period pure exchange economy where agents get utility by means of consumption of a single good. At \\(t=0\\) there is an open market for two types of financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\) of the consumption good, must find an optimal investment portfolio to transfer its wealth across time (as in an Arrow-Debreu economy). We introduce imperfect information by the following mechanism. There are two possible future states of the world: a *positive* state (\\(P\\)) and a *negative* state (\\(N)\\). The state of the world is revealed at \\(t=1\\). If the positive state is observed, then the agent can consume at every period. If the negative state is observed, then the agent can consume only up to \\(t=1\\). Therefore, a negative state can be regarded as a  state where agents suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know the future state of the world, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. So the uncertainty in the model comes from two different sources:
+Consider a three-period pure exchange economy where agents get utility by means of consumption of a single good. At \\(t=0\\) there is an open market for two financial asset: a risky one and a risk-free one. The agents, provided with an initial endowment \\(\omega\\) of the consumption good, must find an optimal investment portfolio to transfer its wealth across time (as in an [Arrow-Debreu economy](https://en.wikipedia.org/wiki/Arrow–Debreu_model)). We introduce imperfect information by the following mechanism. There are two possible future states of the world: a *positive* state (\\(P\\)) and a *negative* state (\\(N)\\). The state of the world is revealed at \\(t=1\\). If the positive state is observed, then the agent can consume at every period. If the negative state is observed, then the agent can consume only up to \\(t=1\\). Therefore, a negative state can be regarded as a  state where agents suffer a *consumption shock*, in the form of an illness, an emergency or other non-insured future event. The key insight here is that at time \\(t=0\\) the agents do not know the future state of the world, so they must make their investment decisions facing a fundamental uncertainty about their future consumption path. So the uncertainty in the model comes from two different sources:
 
 1. the intrinsic volatility of the risky asset (the returns of this asset are stochastic), and
 1. the risk of observe a negative state of the world and be forced to sell the whole portfolio al \\(t=1\\) to achieve maximal utility.
@@ -33,7 +33,7 @@ We will assume that the agents estimate a subjective probability of observing a 
 
 #### 2. The equilibrium of this economy
 
-The equilibrium of this economy is characterized as a Radner equilibrium where the following conditions must hold:
+The equilibrium of this economy is characterized as a [Radner equilibrium](https://en.wikipedia.org/wiki/Radner_equilibrium) where the following conditions must hold:
 
 1. Every agent maximises its expected utility subject to the budget constraint \\(c_t \leq p_t \omega_t + z^k_t X^k_t\\), where \\(X_t\\) is the payoff of the \\(k\\)-th asset a time \\(t\\):
 \\[ \max_{z^k_0} \ E_0[u(c_0) + \beta u(c_1) + \pi_2 \beta^2(c_2)] \\]
