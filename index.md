@@ -7,11 +7,11 @@ title: ''
 
 ---
 
-Soy ingeniero industrial egresado de la Universidad Anáhuac y estoy por terminar la maestría en economía por [El Colegio de México](https://www.colmex.mx). Mi investigación en el posgrado tuvo que ver con los modelos de equilibrio general bajo incertidumbre donde existen mercados de activos contingentes.
+Soy ingeniero industrial egresado de la Universidad Anáhuac y estoy por terminar la maestría en economía por [El Colegio de México](https://www.colmex.mx). Mi investigación durante el posgrado se centró en modelos de equilibrio general bajo incertidumbre donde existen mercados de activos contingentes.
 
-Mi proyecto de tesis tiene que ver con el [acertijo del premio al riesgo](https://en.wikipedia.org/wiki/Equity_premium_puzzle), que es la inconsistencia observada entre el premio al riesgo observado históricamente y el premio al riesgo que los modelos tradicionales de valuación de activos predicen. Este problema ha atraído una buena cantidad de atención en los últimos treinta y cinco años, especialmente a partir de la publicación del [paper clásico de Mehra y Prescott](https://doi.org/10.1016/0304-3932(85)90061-3) sobre el tema, en 1985.
+Mi proyecto de tesis tuvo que ver con el [acertijo del premio al riesgo](https://en.wikipedia.org/wiki/Equity_premium_puzzle), que es la inconsistencia observada entre el premio al riesgo observado históricamente y el premio al riesgo que los modelos tradicionales de valuación de activos predicen. Este problema ha atraído una buena cantidad de atención en los últimos treinta y cinco años, especialmente a partir de la publicación del [paper clásico de Mehra y Prescott](https://doi.org/10.1016/0304-3932(85)90061-3) sobre el tema, en 1985.
 
-Me especializo en el diseño e implementación de algoritmos de aprendizaje automático (*machine learning*) mediante grandes datos en Python. Tengo conocimiento avanzado de este lenguaje, y buen dominio de las librerías `pandas`, `numpy`, `matplotlib`/`seaborn`, `scikil-learn`, `dash` y `flask`.
+Me especializo en el diseño e implementación de algoritmos de aprendizaje automático (*machine learning*) mediante grandes datos en Python. Tengo conocimiento avanzado de este lenguaje, y buen dominio de las librerías `pandas`, `numpy`, `matplotlib`/`seaborn`, `scikit-learn`, `dash` y `flask`.
 
 [Ver CV en PDF](/static/cv_rleo_pub.pdf)
 
