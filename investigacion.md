@@ -13,12 +13,10 @@ title: Investigación
 
 ---
 
-### Tesis de posgrado
+### Resumen de la tesis de posgrado (inglés)
 
-* [Texto completo aprobado](/static/acertijo_choques_consumo.pdf).
+* Consultar el [texto completo aprobado](/static/acertijo_choques_consumo.pdf) de la tesis (español).
 * El ajuste estadístico del modelo que constituye la parte central del trabajo está disponible en [este repositorio](https://github.com/r-leo/tesis-colmex).
-
-#### Resumen de la tesis
 
 #### 1. A pure exchange economy
 
