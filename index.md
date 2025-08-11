@@ -11,7 +11,11 @@ Soy ngeniero industrial egresado de la Universidad Anáhuac y maestro en econom�
 
 Mi proyecto de tesis tuvo que ver con el [acertijo del premio al riesgo](https://en.wikipedia.org/wiki/Equity_premium_puzzle), que es la inconsistencia observada entre el premio al riesgo observado históricamente y el premio al riesgo que los modelos tradicionales de valuación de activos predicen. Este problema ha atraído una buena cantidad de atención en los últimos treinta y cinco años, especialmente a partir de la publicación del [paper clásico de Mehra y Prescott](https://doi.org/10.1016/0304-3932(85)90061-3) sobre el tema, en 1985.
 
-Actualmente trabajo en [BBVA Research](https://www.bbvaresearch.com) en la Ciudad de México. Me especializo en el diseño de modelos de big data en Python, tanto descriptivos como de inferencia. Tengo conocimiento avanzado en este lenguaje, y buen dominio de las librerías `pandas`, `numpy`, `matplotlib`/`seaborn`, `scikit-learn`, `pytorch/lightning`, `dash` y `flask`. Implemento los modelos mediante Spark usando la API `pyspark` con datos en la nube de AWS.
+Actualmente trabajo en [BBVA Research](https://www.bbvaresearch.com) en la Ciudad de México. Me especializo en el diseño de modelos de big data en Python, tanto descriptivos como de inferencia, empleando la API de Python para Spark (`pyspark`) con datos en la nube de AWS. Tengo conocimiento avanzado en este lenguaje, y buen dominio de:
+
+* Las principales librerías de análisis y visualización de datos (locales y distribuidos): `pandas`, `numpy`, `matplotlib`/`seaborn`, `pyspark`.
+* Librerías de aprendizaje automático y *deep learning*: `scikit-learn`, `pytorch`, `lightning`.
+* Frameworks web y de visualización en Python: `dash`, `flask`.
 
 ---
 
